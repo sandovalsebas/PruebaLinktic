@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.sebas.prueba"},{"l":"com.sebas.prueba.Controller"},{"l":"com.sebas.prueba.Entity"},{"l":"com.sebas.prueba.Repository"},{"l":"com.sebas.prueba.Service"},{"l":"com.sebas.prueba.Service.ServiceImpl"}];updateSearchResults();
