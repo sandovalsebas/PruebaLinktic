@@ -15,7 +15,7 @@ values
 INSERT INTO Amparos (nombre) VALUES ('Muerte accidental');
 INSERT INTO Amparos (nombre) VALUES ('Desmembración');
 INSERT INTO Amparos (nombre) VALUES ('Auxilio funerario');
-INSERT INTO Amparos (nombre) VALUES ('Renta vitalicia');
+INSERT INTO Amparos (nombre) VALUES ('Renta Vitalicia');
 
 -- Inserts para la tabla Primas
 INSERT INTO Primas (codigo_amparo, edad_minima, edad_maxima, porcentaje_prima) VALUES (1, 18, 45, 0.02304);
